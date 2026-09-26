@@ -6,7 +6,7 @@ The home of BrickMisfit builds, MOCs, videos, and the collection.
 
 ## Website
 
-Visit [BrickMisfit](YOUR-WEBSITE-URL)
+Visit [BrickMisfit](https://brickmisfit.github.io/website/)
 
 ---
 
