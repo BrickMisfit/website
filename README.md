@@ -4,10 +4,4 @@
 
 The home of BrickMisfit builds, MOCs, videos, and the collection.
 
-## Website
-
-Visit [BrickMisfit](https://brickmisfit.github.io/website/)
-
----
-
-Built one brick at a time.
+## Visit [Website](https://brickmisfit.github.io/website/)
