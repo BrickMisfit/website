@@ -6,7 +6,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Trevi Fountain",
     "pieces": 1880,
     "msrp": 159.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/21062",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21062.png"
@@ -18,7 +17,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "New York City – The Big Apple",
     "pieces": 1465,
     "msrp": 139.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/21066",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21066.png"
@@ -30,7 +28,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Restaurants of the World: Greece",
     "pieces": 254,
     "msrp": 0.0,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40908",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40908.png"
@@ -42,7 +39,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "1/800 Scale Twin Towers Street Scene",
     "pieces": 7129,
     "msrp": 286.99,
-    "status": "Unbuilt",
     "url": "",
     "linkLabel": "",
     "image": "images/collection/3555862.webp"
@@ -54,7 +50,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Milky Way Galaxy",
     "pieces": 3091,
     "msrp": 199.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/31212",
     "linkLabel": "View LEGO product",
     "image": "images/collection/31212.png"
@@ -66,7 +61,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Japanese Cherry Blossom Landscape",
     "pieces": 1892,
     "msrp": 139.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/31218",
     "linkLabel": "View LEGO product",
     "image": "images/collection/31218.png"
@@ -78,7 +72,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Bonsai Tree",
     "pieces": 878,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/10281",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10281.jpg"
@@ -90,7 +83,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Lucky Bamboo",
     "pieces": 325,
     "msrp": 29.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/10344",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10344.png"
@@ -102,7 +94,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "SpongeBob SquarePants Figure",
     "pieces": 72,
     "msrp": 12.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40858",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40858.png"
@@ -114,7 +105,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Shrek, Donkey & Gingy Figures",
     "pieces": 259,
     "msrp": 24.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40923",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40923.png"
@@ -126,7 +116,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Police Car",
     "pieces": 94,
     "msrp": 9.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/60312",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60312.png"
@@ -138,7 +127,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Yellow Backhoe Loader",
     "pieces": 301,
     "msrp": 29.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60480",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60480.png"
@@ -150,7 +138,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Yellow Construction Wheel Loader",
     "pieces": 81,
     "msrp": 14.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60450",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60450.png"
@@ -162,7 +149,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Coast Guard Helicopter",
     "pieces": 551,
     "msrp": 64.989999999999995,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60503",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60503.png"
@@ -174,7 +160,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Fire Rescue Plane",
     "pieces": 478,
     "msrp": 54.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60413",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60413.png"
@@ -186,7 +171,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Yellow Taxi",
     "pieces": 124,
     "msrp": 9.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40468",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40468.jpg"
@@ -198,7 +182,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Yellow Taxi",
     "pieces": 122,
     "msrp": 14.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60487",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60487.png"
@@ -210,7 +193,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Recycling Truck",
     "pieces": 434,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60495",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60495.png"
@@ -222,7 +204,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Police Motorcycle Chase",
     "pieces": 65,
     "msrp": 9.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/60455",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60455.png"
@@ -234,7 +215,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Police Prisoner Transport Van",
     "pieces": 198,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60479",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60479.png"
@@ -246,7 +226,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Off-Road 4x4 Mountain Truck",
     "pieces": 221,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60447",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60447.png"
@@ -258,7 +237,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "EV Supercar",
     "pieces": 109,
     "msrp": 9.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60486",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60486.png"
@@ -270,7 +248,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Fire Rescue Boat",
     "pieces": 144,
     "msrp": 29.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60373",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60373.png"
@@ -282,7 +259,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Emergency Ambulance",
     "pieces": 184,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60451",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60451.png"
@@ -294,7 +270,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Motorcycle Transporter",
     "pieces": 88,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60491",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60491.png"
@@ -306,7 +281,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Snowplow",
     "pieces": 263,
     "msrp": 27.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60490",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60490.png"
@@ -318,7 +292,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Fire Ladder Truck",
     "pieces": 82,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/60463",
     "linkLabel": "View LEGO product",
     "image": "images/collection/60463.png"
@@ -330,7 +303,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Gray Baseplate",
     "pieces": 1,
     "msrp": 14.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/11024",
     "linkLabel": "View LEGO product",
     "image": "images/collection/11024.png"
@@ -342,7 +314,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Year of the Horse",
     "pieces": 133,
     "msrp": 0.0,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40779",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40779.png"
@@ -354,7 +325,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "SEGA® Genesis Console",
     "pieces": 480,
     "msrp": 39.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40926",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40926.png"
@@ -366,7 +336,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Arcade Machine",
     "pieces": 468,
     "msrp": 39.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40805",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40805.png"
@@ -378,7 +347,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Birthday Cupcake",
     "pieces": 174,
     "msrp": 0.0,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40905",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40905.png"
@@ -390,7 +358,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Birthday Cake",
     "pieces": 160,
     "msrp": 0.0,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40780",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40780.png"
@@ -402,7 +369,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Yellow Travel Suitcase",
     "pieces": 184,
     "msrp": 14.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40817",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40817.png"
@@ -414,7 +380,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Bricks and Animals",
     "pieces": 1500,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/11011",
     "linkLabel": "View LEGO product",
     "image": "images/collection/11011.jpg"
@@ -426,7 +391,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Iconic Red Plane",
     "pieces": 51,
     "msrp": 4.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/30669",
     "linkLabel": "View LEGO product",
     "image": "images/collection/30669.webp"
@@ -438,7 +402,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Japan Postcard",
     "pieces": 262,
     "msrp": 14.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40713",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40713.png"
@@ -450,7 +413,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Space Shuttle",
     "pieces": 144,
     "msrp": 9.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/31134",
     "linkLabel": "View LEGO product",
     "image": "images/collection/31134.png"
@@ -462,7 +424,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Shuttle Adventure",
     "pieces": 1204,
     "msrp": 99.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/10213",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10213.webp"
@@ -474,7 +435,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "New York Post Card",
     "pieces": 253,
     "msrp": 14.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40519",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40519.png"
@@ -486,7 +446,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "London Bus",
     "pieces": 245,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40953",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40953.jpeg"
@@ -498,7 +457,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Flatbed Truck with Helicopter",
     "pieces": 270,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/31146",
     "linkLabel": "View LEGO product",
     "image": "images/collection/31146.png"
@@ -510,7 +468,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Disney Castle",
     "pieces": 4837,
     "msrp": 399.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/43222",
     "linkLabel": "View LEGO product",
     "image": "images/collection/43222.png"
@@ -522,7 +479,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Elsa's Jewelry Box Creation",
     "pieces": 300,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/41168",
     "linkLabel": "View LEGO product",
     "image": "images/collection/41168.jpg"
@@ -534,7 +490,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "'Up' House",
     "pieces": 598,
     "msrp": 59.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/43217",
     "linkLabel": "View LEGO product",
     "image": "images/collection/43217.png"
@@ -546,7 +501,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Heihei",
     "pieces": 556,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/43272",
     "linkLabel": "View LEGO product",
     "image": "images/collection/43272.png"
@@ -558,7 +512,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Main Street, U.S.A.",
     "pieces": 3899,
     "msrp": 399.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/43302",
     "linkLabel": "View LEGO product",
     "image": "images/collection/43302.png"
@@ -570,7 +523,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Kakamora",
     "pieces": 407,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/43293",
     "linkLabel": "View LEGO product",
     "image": "images/collection/43293.png"
@@ -582,7 +534,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Zoey's Cat Motorcycle",
     "pieces": 226,
     "msrp": 14.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/71479",
     "linkLabel": "View LEGO product",
     "image": "images/collection/71479.png"
@@ -594,7 +545,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Battle Bus",
     "pieces": 954,
     "msrp": 99.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/77073",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77073.png"
@@ -606,7 +556,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hogwarts Castle: Sorting Hat Ceremony",
     "pieces": 124,
     "msrp": 14.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/76460",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76460.png"
@@ -618,7 +567,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hogwarts House Crest",
     "pieces": 545,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/76462",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76462.png"
@@ -630,7 +578,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Goblet of Fire Figures",
     "pieces": 671,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40791",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40791.png"
@@ -642,7 +589,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Land Rover Classic Defender 90",
     "pieces": 2336,
     "msrp": 239.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/10317",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10317.png"
@@ -654,7 +600,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Ghostbusters ECTO-1",
     "pieces": 2352,
     "msrp": 239.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/10274",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10274.jpg"
@@ -666,7 +611,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASA Space Shuttle Discovery",
     "pieces": 2354,
     "msrp": 199.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/10283",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10283.jpg"
@@ -678,7 +622,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASA Apollo 11 Lunar Lander",
     "pieces": 1087,
     "msrp": 99.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/10266",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10266.jpg"
@@ -690,7 +633,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASA Artemis Space Launch System",
     "pieces": 3601,
     "msrp": 259.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/10341",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10341.png"
@@ -702,7 +644,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Home Alone",
     "pieces": 3955,
     "msrp": 249.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/21330",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21330.jpg"
@@ -714,7 +655,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASA Apollo Saturn V",
     "pieces": 1969,
     "msrp": 119.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/21309",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21309.webp"
@@ -726,7 +666,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "International Space Station",
     "pieces": 864,
     "msrp": 69.989999999999995,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/21321",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21321.jpg"
@@ -738,7 +677,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Spidey: Underwater Vehicles",
     "pieces": 154,
     "msrp": 34.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/11207",
     "linkLabel": "View LEGO product",
     "image": "images/collection/11207.png"
@@ -750,7 +688,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "MARVEL Logo & Minifigures",
     "pieces": 931,
     "msrp": 99.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/76313",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76313.png"
@@ -762,7 +699,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "LEGO® ǀ Marvel Advent Calendar 2026",
     "pieces": 317,
     "msrp": 44.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/76340",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76340.png"
@@ -774,7 +710,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Epic Battle: Spider-Man vs. Sandman",
     "pieces": 201,
     "msrp": 24.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/76334",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76334.png"
@@ -786,7 +721,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Spider-Man vs. Doc Ock Subway Train Scene",
     "pieces": 393,
     "msrp": 54.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/76321",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76321.png"
@@ -798,7 +732,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Redstone Battle",
     "pieces": 504,
     "msrp": 39.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/21163",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21163.jpg"
@@ -810,7 +743,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Panda Nursery",
     "pieces": 204,
     "msrp": 19.989999999999998,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/21158",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21158.jpg"
@@ -822,7 +754,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "System.Xml.XmlElement",
     "pieces": 497,
     "msrp": 39.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/21588",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21588.png"
@@ -834,7 +765,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "SEGA Genesis Controller",
     "pieces": 260,
     "msrp": 19.989999999999998,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40769",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40769.png"
@@ -846,7 +776,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Party Boat",
     "pieces": 640,
     "msrp": 79.989999999999995,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/41433",
     "linkLabel": "View LEGO product",
     "image": "images/collection/41433.jpg"
@@ -858,7 +787,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Easter Bunny Key Chain",
     "pieces": 1,
     "msrp": 6.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/854290",
     "linkLabel": "View LEGO product",
     "image": "images/collection/854290.png"
@@ -870,7 +798,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Penguins in Love",
     "pieces": 278,
     "msrp": 0.0,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40886",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40886.png"
@@ -882,7 +809,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Premier Ball",
     "pieces": 46,
     "msrp": 0.0,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/30729",
     "linkLabel": "View LEGO product",
     "image": "images/collection/30729.png"
@@ -894,7 +820,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Restaurants of the World: Japan",
     "pieces": 289,
     "msrp": 0.0,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/40906",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40906.png"
@@ -906,7 +831,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Audi S1 e-tron quattro Race Car",
     "pieces": 274,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/76921",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76921.png"
@@ -918,7 +842,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Aston Martin Safety Car & AMR23",
     "pieces": 564,
     "msrp": 44.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/76925",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76925.jpg"
@@ -930,7 +853,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Audi Revolut F1® Team R26 Race Car",
     "pieces": 216,
     "msrp": 27.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77259",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77259.png"
@@ -942,7 +864,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Aston Martin Aramco F1® AMR24 Race Car",
     "pieces": 269,
     "msrp": 27.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77245",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77245.png"
@@ -954,7 +875,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "BWT Alpine F1 Team A524 Race Car",
     "pieces": 258,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77248",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77248.png"
@@ -966,7 +886,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Williams Racing FW46 F1® Race Car",
     "pieces": 263,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77249",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77249.png"
@@ -978,7 +897,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Visa Cash App RB VCARB 01 F1® Race Car",
     "pieces": 248,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77246",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77246.png"
@@ -990,7 +908,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "APXGP Team Race Car from F1® The Movie",
     "pieces": 268,
     "msrp": 27.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77252",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77252.png"
@@ -1002,7 +919,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "MoneyGram Haas F1® Team VF-24 Race Car",
     "pieces": 242,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77250",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77250.png"
@@ -1014,7 +930,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASCAR® Next Gen Chevrolet Camaro ZL1",
     "pieces": 328,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/76935",
     "linkLabel": "View LEGO product",
     "image": "images/collection/76935.png"
@@ -1026,7 +941,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Chevrolet Camaro ZL1 Race Car",
     "pieces": 198,
     "msrp": 14.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/75891",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75891.jpg"
@@ -1038,7 +952,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Ferrari SF-24 F1® Race Car",
     "pieces": 275,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77242",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77242.png"
@@ -1050,7 +963,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "McLaren F1® Team MCL38 Race Car",
     "pieces": 269,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77251",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77251.png"
@@ -1062,7 +974,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Oracle Red Bull Racing RB20 F1® Race Car",
     "pieces": 251,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77243",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77243.png"
@@ -1074,7 +985,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Mercedes-AMG F1® W15 Race Car",
     "pieces": 267,
     "msrp": 26.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/77244",
     "linkLabel": "View LEGO product",
     "image": "images/collection/77244.png"
@@ -1086,7 +996,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "R2-D2",
     "pieces": 1050,
     "msrp": 99.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75379",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75379.png"
@@ -1098,7 +1007,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Razor Crest",
     "pieces": 6186,
     "msrp": 599.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75331",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75331.png"
@@ -1110,7 +1018,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Luke Skywalker's Landspeeder",
     "pieces": 1890,
     "msrp": 239.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75341",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75341.png"
@@ -1122,7 +1029,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Dark Falcon",
     "pieces": 1579,
     "msrp": 179.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75389",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75389.png"
@@ -1134,7 +1040,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Millennium Falcon",
     "pieces": 921,
     "msrp": 84.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75375",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75375.png"
@@ -1146,7 +1051,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Millennium Falcon Mini-Build",
     "pieces": 74,
     "msrp": 4.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/30708",
     "linkLabel": "View LEGO product",
     "image": "images/collection/30708.png"
@@ -1158,7 +1062,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "TIE Bomber",
     "pieces": 625,
     "msrp": 64.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75347",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75347.png"
@@ -1170,7 +1073,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Death Trooper & Night Trooper Battle Pack",
     "pieces": 119,
     "msrp": 22.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75412",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75412.png"
@@ -1182,7 +1084,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Grogu with Hover Pram",
     "pieces": 1048,
     "msrp": 99.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75403",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75403.png"
@@ -1194,7 +1095,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Jango Fett Helmet",
     "pieces": 616,
     "msrp": 69.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75408",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75408.png"
@@ -1206,7 +1106,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Mandalorian Helmet",
     "pieces": 584,
     "msrp": 69.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75328",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75328.png"
@@ -1218,7 +1117,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Luke Skywalker (Rebel Pilot)",
     "pieces": 138,
     "msrp": 12.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40795",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40795.png"
@@ -1230,7 +1128,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Brick-Built Star Wars Logo",
     "pieces": 700,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75407",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75407.png"
@@ -1242,7 +1139,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Millennium Falcon",
     "pieces": 7541,
     "msrp": 849.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75192",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75192.jpg"
@@ -1254,7 +1150,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Mandalorian's N-1 Starfighter",
     "pieces": 1809,
     "msrp": 249.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75442",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75442.png"
@@ -1266,7 +1161,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Mandalorian and Grogu Display",
     "pieces": 1,
     "msrp": 0.0,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/5010320",
     "linkLabel": "View LEGO product",
     "image": "images/collection/5010320.png"
@@ -1278,7 +1172,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Darksaber",
     "pieces": 278,
     "msrp": 0.0,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40917",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40917.png"
@@ -1290,7 +1183,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Razor Crest Mini-Build",
     "pieces": 74,
     "msrp": 4.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/30728",
     "linkLabel": "View LEGO product",
     "image": "images/collection/30728.png"
@@ -1302,7 +1194,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Razor Crest",
     "pieces": 930,
     "msrp": 149.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/75447",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75447.png"
@@ -1314,7 +1205,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Boba Fett",
     "pieces": 1544,
     "msrp": 169.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75455",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75455.png"
@@ -1326,7 +1216,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Mandalorian's N-1 Starfighter",
     "pieces": 412,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75325",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75325.png"
@@ -1338,7 +1227,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "LEGO® Star Wars Advent Calendar 2026",
     "pieces": 293,
     "msrp": 44.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75456",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75456.png"
@@ -1350,7 +1238,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "The Razor Crest",
     "pieces": 1023,
     "msrp": 139.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/75292",
     "linkLabel": "View LEGO product",
     "image": "images/collection/75292.png"
@@ -1362,7 +1249,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Stranger Things: The Creel House",
     "pieces": 2593,
     "msrp": 299.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/11370",
     "linkLabel": "View LEGO product",
     "image": "images/collection/11370.png"
@@ -1374,7 +1260,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Eleven, Max, Demogorgon and Holly Figures",
     "pieces": 584,
     "msrp": 39.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40879",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40879.png"
@@ -1386,7 +1271,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Mike, Dustin, Lucas and Will Figures",
     "pieces": 542,
     "msrp": 39.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40801",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40801.png"
@@ -1398,7 +1282,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Stranger Things: WSQK Radio Station",
     "pieces": 234,
     "msrp": 0.0,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/40891",
     "linkLabel": "View LEGO product",
     "image": "images/collection/40891.png"
@@ -1410,7 +1293,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Mario Kart – Mario & Standard Kart",
     "pieces": 1972,
     "msrp": 169.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/72037",
     "linkLabel": "View LEGO product",
     "image": "images/collection/72037.png"
@@ -1422,7 +1304,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Game Boy",
     "pieces": 421,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/72046",
     "linkLabel": "View LEGO product",
     "image": "images/collection/72046.png"
@@ -1434,7 +1315,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Mars Crew Exploration Rover",
     "pieces": 1599,
     "msrp": 149.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42180",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42180.png"
@@ -1446,7 +1326,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NASA Mars Rover Perseverance",
     "pieces": 1132,
     "msrp": 99.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42158",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42158.png"
@@ -1458,7 +1337,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Chevrolet Corvette ZR1",
     "pieces": 579,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42093",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42093.jpg"
@@ -1470,7 +1348,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Police Pursuit",
     "pieces": 120,
     "msrp": 19.989999999999998,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42091",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42091.jpg"
@@ -1482,7 +1359,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Getaway Truck",
     "pieces": 128,
     "msrp": 19.989999999999998,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42090",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42090.jpg"
@@ -1494,7 +1370,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Tipping Dump Truck",
     "pieces": 462,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42203",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42203.png"
@@ -1506,7 +1381,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Kawasaki Ninja H2R Motorcycle",
     "pieces": 643,
     "msrp": 84.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42170",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42170.png"
@@ -1518,7 +1392,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Chevrolet Corvette Stingray",
     "pieces": 732,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42205",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42205.png"
@@ -1530,7 +1403,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Lamborghini Huracán Tecnica",
     "pieces": 806,
     "msrp": 49.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42161",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42161.png"
@@ -1542,7 +1414,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Bugatti Chiron Pur Sport Hypercar",
     "pieces": 771,
     "msrp": 64.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42222",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42222.png"
@@ -1554,7 +1425,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Ducati Desmo450 MX Factory Motorcycle",
     "pieces": 457,
     "msrp": 49.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42238",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42238.png"
@@ -1566,7 +1436,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Formula 1 Collectible Race Cars",
     "pieces": 29,
     "msrp": 4.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/71049",
     "linkLabel": "View LEGO product",
     "image": "images/collection/71049.png"
@@ -1578,7 +1447,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Dodge Viper GTS-R Sports Car",
     "pieces": 805,
     "msrp": 64.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42234",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42234.png"
@@ -1590,7 +1458,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "NEOM McLaren Extreme E Race Car",
     "pieces": 252,
     "msrp": 26.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42166",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42166.png"
@@ -1602,7 +1469,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Back to the Future Time Machine",
     "pieces": 1872,
     "msrp": 199.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/10300",
     "linkLabel": "View LEGO product",
     "image": "images/collection/10300.png"
@@ -1614,7 +1480,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Lamborghini Revuelto Super Sports Car",
     "pieces": 1135,
     "msrp": 189.99,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42214",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42214.png"
@@ -1626,7 +1491,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "1966 Ford GT40 MKII Race Car",
     "pieces": 793,
     "msrp": 74.989999999999995,
-    "status": "Unbuilt",
     "url": "https://www.lego.com/en-us/product/42223",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42223.png"
@@ -1638,7 +1502,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Ford Bronco SUV",
     "pieces": 943,
     "msrp": 64.989999999999995,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42213",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42213.png"
@@ -1650,7 +1513,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Jeep Wrangler",
     "pieces": 655,
     "msrp": 54.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42122",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42122.webp"
@@ -1662,7 +1524,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "McLaren Senna GTR™",
     "pieces": 830,
     "msrp": 49.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42123",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42123.jpg"
@@ -1674,7 +1535,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Monster Jam™ Monster Mutt™ Dalmatian",
     "pieces": 244,
     "msrp": 19.989999999999998,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42150",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42150.png"
@@ -1686,10 +1546,20 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Porsche 911 RSR",
     "pieces": 1580,
     "msrp": 99.99,
-    "status": "Built",
     "url": "https://www.lego.com/en-us/product/42096",
     "linkLabel": "View LEGO product",
     "image": "images/collection/42096.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42173",
+    "name": "Koenigsegg Jesko Absolut Grey Hypercar",
+    "pieces": 801,
+    "msrp": 49.99,
+    "url": "https://www.lego.com/en-us/product/42173",
+    "linkLabel": "View LEGO product",
+    "image": "images/collection/42173.png"
   },
   {
     "brand": "Nifeliz",
@@ -1698,7 +1568,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "V25 Formula 1 Racing Car Building Set",
     "pieces": 2634,
     "msrp": 89.99,
-    "status": "Unbuilt",
     "url": "https://www.nifeliz.com/nifeliz_product_v25/",
     "linkLabel": "View Nifeliz product",
     "image": "images/collection/NF10329.jpg"
@@ -1710,7 +1579,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Stinger RS Sports Car Building Set",
     "pieces": 2362,
     "msrp": 89.99,
-    "status": "Unbuilt",
     "url": "https://www.nifeliz.com/nifeliz_product_stinger-rs/",
     "linkLabel": "View Nifeliz product",
     "image": "images/collection/NF10328.jpg"
@@ -1722,7 +1590,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "ASIL Sports Car Building Set",
     "pieces": 4099,
     "msrp": 159.99,
-    "status": "Built",
     "url": "https://www.nifeliz.com/nifeliz_product_asil/",
     "linkLabel": "View Nifeliz product",
     "image": "images/collection/NF10293.jpg"
@@ -1734,7 +1601,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Suzuki Hayabusa",
     "pieces": 1042,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "https://decadastore.com/collections/best-selling/products/cada-1-6-suzuki-hayabusa-c64051w",
     "linkLabel": "View CaDA product",
     "image": "images/collection/C64051W.jpg"
@@ -1746,7 +1612,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hot Wheels '84 Audi Sport",
     "pieces": 864,
     "msrp": 59.99,
-    "status": "Unbuilt",
     "url": "",
     "linkLabel": "",
     "image": "images/collection/94982041.webp"
@@ -1758,7 +1623,6 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hot Wheels Corvette Grand Sport",
     "pieces": 918,
     "msrp": 43.99,
-    "status": "Unbuilt",
     "url": "",
     "linkLabel": "",
     "image": "images/collection/93730953.webp"
