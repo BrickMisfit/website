@@ -321,17 +321,6 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Classic",
-    "number": "40926",
-    "name": "SEGA® Genesis Console",
-    "pieces": 480,
-    "msrp": 39.99,
-    "url": "https://www.lego.com/en-us/product/40926",
-    "linkLabel": "View LEGO product",
-    "image": "images/collection/40926.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
     "number": "40805",
     "name": "Arcade Machine",
     "pieces": 468,
@@ -757,6 +746,28 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://www.lego.com/en-us/product/21588",
     "linkLabel": "View LEGO product",
     "image": "images/collection/21588.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Other",
+    "number": "40926",
+    "name": "SEGA® Genesis Console",
+    "pieces": 480,
+    "msrp": 39.99,
+    "url": "https://www.lego.com/en-us/product/40926",
+    "linkLabel": "View LEGO product",
+    "image": "images/collection/40926.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Other",
+    "number": "72306",
+    "name": "PlayStation",
+    "pieces": 1911,
+    "msrp": 179.99,
+    "url": "https://www.lego.com/en-us/product/72306",
+    "linkLabel": "View LEGO product",
+    "image": "images/collection/72306.webp"
   },
   {
     "brand": "LEGO",
@@ -1608,23 +1619,45 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "Mattel",
     "category": "Technic",
-    "number": "94982041",
+    "number": "JLK39",
     "name": "Hot Wheels '84 Audi Sport",
     "pieces": 864,
     "msrp": 59.99,
     "url": "",
     "linkLabel": "",
-    "image": "images/collection/94982041.webp"
+    "image": "images/collection/JLK39.webp"
   },
   {
     "brand": "Mattel",
     "category": "Technic",
-    "number": "93730953",
+    "number": "JGR31",
     "name": "Hot Wheels Corvette Grand Sport",
     "pieces": 918,
     "msrp": 43.99,
     "url": "",
     "linkLabel": "",
-    "image": "images/collection/93730953.webp"
+    "image": "images/collection/JGR31.webp"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JNM81",
+    "name": "Audi R8 LMS Deluxe Version",
+    "pieces": 861,
+    "msrp": 69.989999999999995,
+    "url": "",
+    "linkLabel": "",
+    "image": "images/collection/JNM81.jpg"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "HYL44",
+    "name": "Microsoft Xbox",
+    "pieces": 3509,
+    "msrp": 329.99,
+    "url": "",
+    "linkLabel": "",
+    "image": "images/collection/HYL44.webp"
   }
 ];
