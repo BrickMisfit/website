@@ -8,6 +8,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 159.99,
     "url": "https://www.lego.com/en-us/product/21062",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21062.png"
   },
   {
@@ -19,6 +20,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 139.99,
     "url": "https://www.lego.com/en-us/product/21066",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21066.png"
   },
   {
@@ -30,6 +32,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40908",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40908.png"
   },
   {
@@ -41,6 +44,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 286.99,
     "url": "",
     "linkLabel": "",
+    "affiliateUrl": "",
     "image": "images/collection/3555862.webp"
   },
   {
@@ -52,6 +56,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 199.99,
     "url": "https://www.lego.com/en-us/product/31212",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/31212.png"
   },
   {
@@ -63,6 +68,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 139.99,
     "url": "https://www.lego.com/en-us/product/31218",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/31218.png"
   },
   {
@@ -74,6 +80,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/10281",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10281.jpg"
   },
   {
@@ -85,6 +92,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 29.99,
     "url": "https://www.lego.com/en-us/product/10344",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10344.png"
   },
   {
@@ -96,6 +104,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 12.99,
     "url": "https://www.lego.com/en-us/product/40858",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40858.png"
   },
   {
@@ -107,6 +116,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 24.99,
     "url": "https://www.lego.com/en-us/product/40923",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40923.png"
   },
   {
@@ -118,6 +128,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 9.99,
     "url": "https://www.lego.com/en-us/product/60312",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60312.png"
   },
   {
@@ -129,6 +140,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 29.99,
     "url": "https://www.lego.com/en-us/product/60480",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60480.png"
   },
   {
@@ -140,6 +152,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/60450",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60450.png"
   },
   {
@@ -151,6 +164,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 64.989999999999995,
     "url": "https://www.lego.com/en-us/product/60503",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60503.png"
   },
   {
@@ -162,6 +176,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 54.99,
     "url": "https://www.lego.com/en-us/product/60413",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60413.png"
   },
   {
@@ -173,6 +188,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 9.99,
     "url": "https://www.lego.com/en-us/product/40468",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40468.jpg"
   },
   {
@@ -184,6 +200,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/60487",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60487.png"
   },
   {
@@ -195,6 +212,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/60495",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60495.png"
   },
   {
@@ -206,6 +224,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 9.99,
     "url": "https://www.lego.com/en-us/product/60455",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60455.png"
   },
   {
@@ -217,6 +236,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/60479",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60479.png"
   },
   {
@@ -228,6 +248,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/60447",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60447.png"
   },
   {
@@ -239,6 +260,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 9.99,
     "url": "https://www.lego.com/en-us/product/60486",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60486.png"
   },
   {
@@ -250,6 +272,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 29.99,
     "url": "https://www.lego.com/en-us/product/60373",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60373.png"
   },
   {
@@ -261,6 +284,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/60451",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60451.png"
   },
   {
@@ -272,6 +296,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/60491",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60491.png"
   },
   {
@@ -283,6 +308,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 27.99,
     "url": "https://www.lego.com/en-us/product/60490",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60490.png"
   },
   {
@@ -294,6 +320,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/60463",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/60463.png"
   },
   {
@@ -305,6 +332,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/11024",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/11024.png"
   },
   {
@@ -316,6 +344,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40779",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40779.png"
   },
   {
@@ -327,6 +356,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/40805",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40805.png"
   },
   {
@@ -338,6 +368,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40905",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40905.png"
   },
   {
@@ -349,6 +380,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40780",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40780.png"
   },
   {
@@ -360,6 +392,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/40817",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40817.png"
   },
   {
@@ -371,6 +404,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/11011",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/11011.jpg"
   },
   {
@@ -382,6 +416,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 4.99,
     "url": "https://www.lego.com/en-us/product/30669",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/30669.webp"
   },
   {
@@ -393,6 +428,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/40713",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40713.png"
   },
   {
@@ -404,6 +440,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 9.99,
     "url": "https://www.lego.com/en-us/product/31134",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/31134.png"
   },
   {
@@ -415,6 +452,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/10213",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10213.webp"
   },
   {
@@ -426,6 +464,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/40519",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40519.png"
   },
   {
@@ -437,6 +476,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/40953",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40953.jpeg"
   },
   {
@@ -448,6 +488,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/31146",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/31146.png"
   },
   {
@@ -459,6 +500,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 399.99,
     "url": "https://www.lego.com/en-us/product/43222",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/43222.png"
   },
   {
@@ -470,6 +512,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/41168",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/41168.jpg"
   },
   {
@@ -481,6 +524,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://www.lego.com/en-us/product/43217",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/43217.png"
   },
   {
@@ -492,6 +536,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/43272",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/43272.png"
   },
   {
@@ -503,6 +548,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 399.99,
     "url": "https://www.lego.com/en-us/product/43302",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/43302.png"
   },
   {
@@ -514,6 +560,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/43293",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/43293.png"
   },
   {
@@ -525,6 +572,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/71479",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/71479.png"
   },
   {
@@ -536,6 +584,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/77073",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77073.png"
   },
   {
@@ -547,6 +596,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/76460",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76460.png"
   },
   {
@@ -558,6 +608,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/76462",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76462.png"
   },
   {
@@ -569,6 +620,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/40791",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40791.png"
   },
   {
@@ -580,6 +632,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 239.99,
     "url": "https://www.lego.com/en-us/product/10317",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10317.png"
   },
   {
@@ -591,6 +644,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 239.99,
     "url": "https://www.lego.com/en-us/product/10274",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10274.jpg"
   },
   {
@@ -602,6 +656,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 199.99,
     "url": "https://www.lego.com/en-us/product/10283",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10283.jpg"
   },
   {
@@ -613,6 +668,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/10266",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10266.jpg"
   },
   {
@@ -624,6 +680,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 259.99,
     "url": "https://www.lego.com/en-us/product/10341",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10341.png"
   },
   {
@@ -635,6 +692,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 249.99,
     "url": "https://www.lego.com/en-us/product/21330",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21330.jpg"
   },
   {
@@ -646,6 +704,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 119.99,
     "url": "https://www.lego.com/en-us/product/21309",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21309.webp"
   },
   {
@@ -657,6 +716,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 69.989999999999995,
     "url": "https://www.lego.com/en-us/product/21321",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21321.jpg"
   },
   {
@@ -668,6 +728,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 34.99,
     "url": "https://www.lego.com/en-us/product/11207",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/11207.png"
   },
   {
@@ -679,6 +740,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/76313",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76313.png"
   },
   {
@@ -690,6 +752,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 44.99,
     "url": "https://www.lego.com/en-us/product/76340",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76340.png"
   },
   {
@@ -701,6 +764,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 24.99,
     "url": "https://www.lego.com/en-us/product/76334",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76334.png"
   },
   {
@@ -712,6 +776,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 54.99,
     "url": "https://www.lego.com/en-us/product/76321",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76321.png"
   },
   {
@@ -723,6 +788,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/21163",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21163.jpg"
   },
   {
@@ -734,6 +800,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/21158",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21158.jpg"
   },
   {
@@ -745,6 +812,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/21588",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/21588.png"
   },
   {
@@ -756,6 +824,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/40926",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40926.png"
   },
   {
@@ -767,6 +836,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 179.99,
     "url": "https://www.lego.com/en-us/product/72306",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/72306.webp"
   },
   {
@@ -778,6 +848,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/40769",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40769.png"
   },
   {
@@ -789,6 +860,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 79.989999999999995,
     "url": "https://www.lego.com/en-us/product/41433",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/41433.jpg"
   },
   {
@@ -800,6 +872,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 6.99,
     "url": "https://www.lego.com/en-us/product/854290",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/854290.png"
   },
   {
@@ -811,6 +884,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40886",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40886.png"
   },
   {
@@ -822,6 +896,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/30729",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/30729.png"
   },
   {
@@ -833,6 +908,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40906",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40906.png"
   },
   {
@@ -844,6 +920,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/76921",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76921.png"
   },
   {
@@ -855,6 +932,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 44.99,
     "url": "https://www.lego.com/en-us/product/76925",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76925.jpg"
   },
   {
@@ -866,6 +944,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 27.99,
     "url": "https://www.lego.com/en-us/product/77259",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77259.png"
   },
   {
@@ -877,6 +956,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 27.99,
     "url": "https://www.lego.com/en-us/product/77245",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77245.png"
   },
   {
@@ -888,6 +968,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77248",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77248.png"
   },
   {
@@ -899,6 +980,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77249",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77249.png"
   },
   {
@@ -910,6 +992,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77246",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77246.png"
   },
   {
@@ -921,6 +1004,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 27.99,
     "url": "https://www.lego.com/en-us/product/77252",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77252.png"
   },
   {
@@ -932,6 +1016,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77250",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77250.png"
   },
   {
@@ -943,6 +1028,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/76935",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/76935.png"
   },
   {
@@ -954,6 +1040,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 14.99,
     "url": "https://www.lego.com/en-us/product/75891",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75891.jpg"
   },
   {
@@ -965,6 +1052,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77242",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77242.png"
   },
   {
@@ -976,6 +1064,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77251",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77251.png"
   },
   {
@@ -987,6 +1076,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77243",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77243.png"
   },
   {
@@ -998,6 +1088,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/77244",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/77244.png"
   },
   {
@@ -1009,6 +1100,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/75379",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75379.png"
   },
   {
@@ -1020,6 +1112,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 599.99,
     "url": "https://www.lego.com/en-us/product/75331",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75331.png"
   },
   {
@@ -1031,6 +1124,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 239.99,
     "url": "https://www.lego.com/en-us/product/75341",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75341.png"
   },
   {
@@ -1042,6 +1136,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 179.99,
     "url": "https://www.lego.com/en-us/product/75389",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75389.png"
   },
   {
@@ -1053,6 +1148,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 84.99,
     "url": "https://www.lego.com/en-us/product/75375",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75375.png"
   },
   {
@@ -1064,6 +1160,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 4.99,
     "url": "https://www.lego.com/en-us/product/30708",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/30708.png"
   },
   {
@@ -1075,6 +1172,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 64.989999999999995,
     "url": "https://www.lego.com/en-us/product/75347",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75347.png"
   },
   {
@@ -1086,6 +1184,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 22.99,
     "url": "https://www.lego.com/en-us/product/75412",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75412.png"
   },
   {
@@ -1097,6 +1196,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/75403",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75403.png"
   },
   {
@@ -1108,6 +1208,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 69.989999999999995,
     "url": "https://www.lego.com/en-us/product/75408",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75408.png"
   },
   {
@@ -1119,6 +1220,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 69.989999999999995,
     "url": "https://www.lego.com/en-us/product/75328",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75328.png"
   },
   {
@@ -1130,6 +1232,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 12.99,
     "url": "https://www.lego.com/en-us/product/40795",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40795.png"
   },
   {
@@ -1141,6 +1244,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://www.lego.com/en-us/product/75407",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75407.png"
   },
   {
@@ -1152,6 +1256,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 849.99,
     "url": "https://www.lego.com/en-us/product/75192",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75192.jpg"
   },
   {
@@ -1163,6 +1268,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 249.99,
     "url": "https://www.lego.com/en-us/product/75442",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75442.png"
   },
   {
@@ -1174,6 +1280,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/5010320",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/5010320.png"
   },
   {
@@ -1185,6 +1292,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40917",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40917.png"
   },
   {
@@ -1196,6 +1304,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 4.99,
     "url": "https://www.lego.com/en-us/product/30728",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/30728.png"
   },
   {
@@ -1207,6 +1316,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 149.99,
     "url": "https://www.lego.com/en-us/product/75447",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75447.png"
   },
   {
@@ -1218,6 +1328,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 169.99,
     "url": "https://www.lego.com/en-us/product/75455",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75455.png"
   },
   {
@@ -1229,6 +1340,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://www.lego.com/en-us/product/75325",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75325.png"
   },
   {
@@ -1240,6 +1352,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 44.99,
     "url": "https://www.lego.com/en-us/product/75456",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75456.png"
   },
   {
@@ -1251,6 +1364,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 139.99,
     "url": "https://www.lego.com/en-us/product/75292",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/75292.png"
   },
   {
@@ -1262,6 +1376,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 299.99,
     "url": "https://www.lego.com/en-us/product/11370",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/11370.png"
   },
   {
@@ -1273,6 +1388,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/40879",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40879.png"
   },
   {
@@ -1284,6 +1400,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 39.99,
     "url": "https://www.lego.com/en-us/product/40801",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40801.png"
   },
   {
@@ -1295,6 +1412,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40891",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/40891.png"
   },
   {
@@ -1306,6 +1424,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 169.99,
     "url": "https://www.lego.com/en-us/product/72037",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/72037.png"
   },
   {
@@ -1317,6 +1436,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://www.lego.com/en-us/product/72046",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/72046.png"
   },
   {
@@ -1328,6 +1448,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 149.99,
     "url": "https://www.lego.com/en-us/product/42180",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42180.png"
   },
   {
@@ -1339,6 +1460,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/42158",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42158.png"
   },
   {
@@ -1350,6 +1472,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42093",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42093.jpg"
   },
   {
@@ -1361,6 +1484,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/42091",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42091.jpg"
   },
   {
@@ -1372,6 +1496,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/42090",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42090.jpg"
   },
   {
@@ -1383,6 +1508,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42203",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42203.png"
   },
   {
@@ -1394,6 +1520,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 84.99,
     "url": "https://www.lego.com/en-us/product/42170",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42170.png"
   },
   {
@@ -1405,6 +1532,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://www.lego.com/en-us/product/42205",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42205.png"
   },
   {
@@ -1416,6 +1544,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42161",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42161.png"
   },
   {
@@ -1427,6 +1556,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 64.989999999999995,
     "url": "https://www.lego.com/en-us/product/42222",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42222.png"
   },
   {
@@ -1438,6 +1568,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42238",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3U7nlF1",
     "image": "images/collection/42238.png"
   },
   {
@@ -1449,6 +1580,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 4.99,
     "url": "https://www.lego.com/en-us/product/71049",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/71049.png"
   },
   {
@@ -1460,6 +1592,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 64.989999999999995,
     "url": "https://www.lego.com/en-us/product/42234",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42234.png"
   },
   {
@@ -1471,6 +1604,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 26.99,
     "url": "https://www.lego.com/en-us/product/42166",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42166.png"
   },
   {
@@ -1482,6 +1616,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 199.99,
     "url": "https://www.lego.com/en-us/product/10300",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/10300.png"
   },
   {
@@ -1493,6 +1628,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 189.99,
     "url": "https://www.lego.com/en-us/product/42214",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42214.png"
   },
   {
@@ -1504,6 +1640,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 74.989999999999995,
     "url": "https://www.lego.com/en-us/product/42223",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42223.png"
   },
   {
@@ -1515,6 +1652,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 64.989999999999995,
     "url": "https://www.lego.com/en-us/product/42213",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42213.png"
   },
   {
@@ -1526,6 +1664,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 54.99,
     "url": "https://www.lego.com/en-us/product/42122",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42122.webp"
   },
   {
@@ -1537,6 +1676,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42123",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42123.jpg"
   },
   {
@@ -1548,6 +1688,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 19.989999999999998,
     "url": "https://www.lego.com/en-us/product/42150",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42150.png"
   },
   {
@@ -1559,6 +1700,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 99.99,
     "url": "https://www.lego.com/en-us/product/42096",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42096.jpg"
   },
   {
@@ -1570,6 +1712,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42173",
     "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
     "image": "images/collection/42173.png"
   },
   {
@@ -1581,6 +1724,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 89.99,
     "url": "https://www.nifeliz.com/nifeliz_product_v25/",
     "linkLabel": "View Nifeliz product",
+    "affiliateUrl": "",
     "image": "images/collection/NF10329.jpg"
   },
   {
@@ -1592,6 +1736,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 89.99,
     "url": "https://www.nifeliz.com/nifeliz_product_stinger-rs/",
     "linkLabel": "View Nifeliz product",
+    "affiliateUrl": "",
     "image": "images/collection/NF10328.jpg"
   },
   {
@@ -1603,6 +1748,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 159.99,
     "url": "https://www.nifeliz.com/nifeliz_product_asil/",
     "linkLabel": "View Nifeliz product",
+    "affiliateUrl": "",
     "image": "images/collection/NF10293.jpg"
   },
   {
@@ -1614,6 +1760,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://decadastore.com/collections/best-selling/products/cada-1-6-suzuki-hayabusa-c64051w",
     "linkLabel": "View CaDA product",
+    "affiliateUrl": "",
     "image": "images/collection/C64051W.jpg"
   },
   {
@@ -1625,6 +1772,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "",
     "linkLabel": "",
+    "affiliateUrl": "",
     "image": "images/collection/JLK39.webp"
   },
   {
@@ -1636,6 +1784,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 43.99,
     "url": "",
     "linkLabel": "",
+    "affiliateUrl": "",
     "image": "images/collection/JGR31.webp"
   },
   {
@@ -1647,6 +1796,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 69.989999999999995,
     "url": "",
     "linkLabel": "",
+    "affiliateUrl": "",
     "image": "images/collection/JNM81.jpg"
   },
   {
@@ -1658,6 +1808,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 329.99,
     "url": "",
     "linkLabel": "",
+    "affiliateUrl": "",
     "image": "images/collection/HYL44.webp"
   }
 ];

@@ -32,6 +32,7 @@ async function loadCollection(){
           <div><dt>Price</dt><dd>${x.msrp!=null&&x.msrp!==''?'$'+Number(x.msrp).toFixed(2):'—'}</dd></div>
         </dl>
         ${x.url?`<a class="lego-link" href="${x.url}" target="_blank" rel="noopener">${x.linkLabel||'View product'} →</a>`:''}
+        ${x.affiliateUrl?`<div style="margin-top:8px"><a class="lego-link" href="${x.affiliateUrl}" target="_blank" rel="sponsored noopener">Shop on Amazon →</a> <span style="font-size:.75rem;opacity:.65">Affiliate link</span></div>`:''}
       </div>
     </article>`).join('');
 
