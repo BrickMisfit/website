@@ -1784,7 +1784,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 49.99,
     "url": "https://www.lego.com/en-us/product/42138",
     "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/3TOhKDw",
     "image": "images/collection/42138.png"
   },
   {
@@ -1796,7 +1796,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 89.99,
     "url": "https://www.nifeliz.com/nifeliz_product_v25/",
     "linkLabel": "View Nifeliz product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/3Tp9Osj",
     "image": "images/collection/NF10329.jpg"
   },
   {
@@ -1808,7 +1808,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 89.99,
     "url": "https://www.nifeliz.com/nifeliz_product_stinger-rs/",
     "linkLabel": "View Nifeliz product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/47BAFoi",
     "image": "images/collection/NF10328.jpg"
   },
   {
@@ -1820,7 +1820,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 159.99,
     "url": "https://www.nifeliz.com/nifeliz_product_asil/",
     "linkLabel": "View Nifeliz product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/4yrnZLX",
     "image": "images/collection/NF10293.jpg"
   },
   {
@@ -1832,7 +1832,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 59.99,
     "url": "https://decadastore.com/collections/best-selling/products/cada-1-6-suzuki-hayabusa-c64051w",
     "linkLabel": "View CaDA product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/4j9PW6O",
     "image": "images/collection/C64051W.jpg"
   },
   {
@@ -1842,9 +1842,9 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hot Wheels '84 Audi Sport",
     "pieces": 864,
     "msrp": 59.99,
-    "url": "",
-    "linkLabel": "",
-    "affiliateUrl": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-84-audi-sport-quattro-building-toy-kit-jlk39",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://amzn.to/3Wdbwh6",
     "image": "images/collection/JLK39.webp"
   },
   {
@@ -1854,9 +1854,9 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Hot Wheels Corvette Grand Sport",
     "pieces": 918,
     "msrp": 43.99,
-    "url": "",
-    "linkLabel": "",
-    "affiliateUrl": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-corvette-grand-sport-jgr31",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://amzn.to/4j9ZS0i",
     "image": "images/collection/JGR31.webp"
   },
   {
@@ -1866,9 +1866,9 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Audi R8 LMS Deluxe Version",
     "pieces": 861,
     "msrp": 69.989999999999995,
-    "url": "",
-    "linkLabel": "",
-    "affiliateUrl": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-15-audi-r8-lms-jft18",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://amzn.to/4yDPrXJ",
     "image": "images/collection/JNM81.jpg"
   },
   {
@@ -1878,9 +1878,9 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "24 Aston Martin Vintage GT3",
     "pieces": 793,
     "msrp": null,
-    "url": "",
-    "linkLabel": "",
-    "affiliateUrl": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-24-aston-martin-vantage-gt3-building-toy-kit-jlf51",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://amzn.to/4i8DmDO",
     "image": "images/collection/JLF51.jpg"
   },
   {
@@ -1890,8 +1890,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Microsoft Xbox",
     "pieces": 3509,
     "msrp": 329.99,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-microsoft-xbox-building-toy-kit-hyl44",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "",
     "image": "images/collection/HYL44.webp"
   }
