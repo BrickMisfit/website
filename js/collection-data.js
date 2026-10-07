@@ -626,6 +626,30 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Icons",
+    "number": "10331",
+    "name": "Kingfisher Bird",
+    "pieces": 834,
+    "msrp": 49.99,
+    "url": "https://www.lego.com/en-us/product/10331",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/10331.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "11389",
+    "name": "Project Hail Mary",
+    "pieces": 830,
+    "msrp": 99.99,
+    "url": "https://www.lego.com/en-us/product/11389",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/11389.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
     "number": "10317",
     "name": "Land Rover Classic Defender 90",
     "pieces": 2336,
@@ -1441,6 +1465,42 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
+    "category": "Super Mario",
+    "number": "71426",
+    "name": "Piranha Plant",
+    "pieces": 540,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/71426",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/71426.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42202",
+    "name": "Ducati Panigale V4 S Motorcycle",
+    "pieces": 1603,
+    "msrp": 199.99,
+    "url": "https://www.lego.com/en-us/product/42202",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/42202.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42154",
+    "name": "2022 Ford GT",
+    "pieces": 1468,
+    "msrp": 119.99,
+    "url": "https://www.lego.com/en-us/product/42154",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/42154.png"
+  },
+  {
+    "brand": "LEGO",
     "category": "Technic",
     "number": "42180",
     "name": "Mars Crew Exploration Rover",
@@ -1716,6 +1776,18 @@ window.BRICKMISFIT_COLLECTION = [
     "image": "images/collection/42173.png"
   },
   {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42138",
+    "name": "Ford Mustang Shelby GT500",
+    "pieces": 544,
+    "msrp": 49.99,
+    "url": "https://www.lego.com/en-us/product/42138",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/42138.png"
+  },
+  {
     "brand": "Nifeliz",
     "category": "Technic",
     "number": "NF10329",
@@ -1798,6 +1870,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "",
     "affiliateUrl": "",
     "image": "images/collection/JNM81.jpg"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JLF51",
+    "name": "24 Aston Martin Vintage GT3",
+    "pieces": 793,
+    "msrp": null,
+    "url": "",
+    "linkLabel": "",
+    "affiliateUrl": "",
+    "image": "images/collection/JLF51.jpg"
   },
   {
     "brand": "Mattel",
