@@ -1393,6 +1393,18 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
+    "category": "Star Wars",
+    "number": "75382",
+    "name": "TIE Interceptor",
+    "pieces": 1931,
+    "msrp": 229.99,
+    "url": "",
+    "linkLabel": "",
+    "affiliateUrl": "",
+    "image": "images/collection/75382.webp"
+  },
+  {
+    "brand": "LEGO",
     "category": "Stranger Things",
     "number": "11370",
     "name": "Stranger Things: The Creel House",
@@ -1854,8 +1866,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "84 Audi Sport",
     "pieces": 864,
     "msrp": 59.99,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-84-audi-sport-quattro-building-toy-kit-jlk39",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/3Wdbwh6",
     "image": "images/collection/JLK39.webp"
   },
@@ -1866,8 +1878,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Corvette Grand Sport",
     "pieces": 918,
     "msrp": 43.99,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-corvette-grand-sport-jgr31",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/4j9ZS0i",
     "image": "images/collection/JGR31.webp"
   },
@@ -1878,8 +1890,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Audi R8 LMS Deluxe Version",
     "pieces": 861,
     "msrp": 69.989999999999995,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-15-audi-r8-lms-jft18",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/4yDPrXJ",
     "image": "images/collection/JNM81.jpg"
   },
@@ -1890,8 +1902,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "24 Aston Martin Vintage GT3",
     "pieces": 793,
     "msrp": 54.99,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-24-aston-martin-vantage-gt3-building-toy-kit-jlf51",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/4i8DmDO",
     "image": "images/collection/JLF51.jpg"
   },
@@ -1902,8 +1914,8 @@ window.BRICKMISFIT_COLLECTION = [
     "name": "Microsoft Xbox",
     "pieces": 3509,
     "msrp": 329.99,
-    "url": "",
-    "linkLabel": "",
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-microsoft-xbox-building-toy-kit-hyl44",
+    "linkLabel": "View Mattel product",
     "affiliateUrl": "",
     "image": "images/collection/HYL44.webp"
   }
