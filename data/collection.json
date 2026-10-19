@@ -434,6 +434,18 @@
   {
     "brand": "LEGO",
     "category": "Creator",
+    "number": "40954",
+    "name": "Germany Postcard",
+    "pieces": 240,
+    "msrp": 14.99,
+    "url": "https://www.lego.com/en-us/40954",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40954.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Creator",
     "number": "40713",
     "name": "Japan Postcard",
     "pieces": 262,
@@ -502,6 +514,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/31146.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Disney",
+    "number": "43279",
+    "name": "WALL-E and EVE",
+    "pieces": 811,
+    "msrp": 69.989999999999995,
+    "url": "https://www.lego.com/en-us/43279",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4zGYUO2",
+    "image": "images/collection/43279.jpg"
   },
   {
     "brand": "LEGO",
@@ -638,6 +662,18 @@
   {
     "brand": "LEGO",
     "category": "Icons",
+    "number": "10365",
+    "name": "Captain Jack Sparrow's Pirate Ship",
+    "pieces": 2862,
+    "msrp": 379.99,
+    "url": "https://www.lego.com/en-us/product/10365",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3Wide0N",
+    "image": "images/collection/10365.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
     "number": "10331",
     "name": "Kingfisher Bird",
     "pieces": 834,
@@ -646,6 +682,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4rTVV22",
     "image": "images/collection/10331.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "11382",
+    "name": "Hubble Space Telescope",
+    "pieces": 1252,
+    "msrp": 139.99,
+    "url": "https://www.lego.com/en-us/product/11382",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4yYPEVi",
+    "image": "images/collection/11382.webp"
   },
   {
     "brand": "LEGO",
@@ -754,6 +802,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4yBdqqh",
     "image": "images/collection/21321.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Ideas",
+    "number": "21368",
+    "name": "Peanuts: Snoopy's Doghouse",
+    "pieces": 964,
+    "msrp": 89.99,
+    "url": "https://www.lego.com/en-us/product/21368",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3Wzhol2",
+    "image": "images/collection/21368.webp"
   },
   {
     "brand": "LEGO",
@@ -934,6 +994,30 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/30729.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Restaurants",
+    "number": "40907",
+    "name": "System.Xml.XmlElement",
+    "pieces": null,
+    "msrp": null,
+    "url": "https://www.lego.com/en-us/product/40907",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40907.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Restaurants",
+    "number": "40909",
+    "name": "Restaurants of the World: Italy",
+    "pieces": 317,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40909",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40909.png"
   },
   {
     "brand": "LEGO",
@@ -1502,6 +1586,18 @@
   {
     "brand": "LEGO",
     "category": "Technic",
+    "number": "42207",
+    "name": "Ferrari SF-24 F1 Car",
+    "pieces": 1361,
+    "msrp": 229.99,
+    "url": "https://www.lego.com/en-us/product/42207",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3U8mxzH",
+    "image": "images/collection/42207.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
     "number": "42202",
     "name": "Ducati Panigale V4 S Motorcycle",
     "pieces": 1603,
@@ -1606,6 +1702,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4dKbuDJ",
     "image": "images/collection/42170.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42217",
+    "name": "Chevrolet Corvette Stingray Blue",
+    "pieces": 732,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/42217",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4BdTewn",
+    "image": null
   },
   {
     "brand": "LEGO",
