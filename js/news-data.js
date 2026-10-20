@@ -24,11 +24,11 @@ const brickMisfitNews = [
     url: "https://www.lego.com/en-us/categories/last-chance-to-buy"
   },
   {
-    title: "October LEGO gifts with purchase",
+    title: "LEGO Gifts with Purchase",
     category: "Promotions",
     date: "2026-10-20",
-    summary: "LEGO lists a Fun Halloween Skeleton gift with qualifying $40+ purchases and a Luminous Ghost gift with qualifying $120+ purchases, October 20–27, while supplies last. Check full eligibility and terms.",
-    url: "https://www.lego.com/en-us/page/lego-offers-promotions"
+    summary: "Explore LEGO's latest free gifts with qualifying purchases. Offers and availability change regularly.",
+    url: "https://www.lego.com/en-us/page/lego-offers-promotions/gwp"
   },
   {
     title: "LEGO offers and sale items",
