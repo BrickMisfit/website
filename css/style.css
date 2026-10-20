@@ -64,3 +64,31 @@ footer{border-top:1px solid var(--line);padding:36px 0;color:var(--muted)}.foote
 
 /* Social links */
 .footer-social{display:flex;gap:9px;align-items:center}.footer-social a{color:var(--muted);font-weight:800}.footer-social a:hover{color:var(--yellow)}.social-callout{margin-top:38px;padding:26px;border:1px solid var(--line);border-radius:14px;background:#111419}.social-callout h3{margin-top:0}.social-callout p{color:var(--muted)}.social-callout .actions{justify-content:flex-start;margin-top:18px}.video-follow{margin-top:28px}
+
+/* Home page stacked headings and compact latest build image */
+.home-stacked{display:flex;flex-direction:column;align-items:flex-start;gap:10px}
+.home-stacked p{margin:0;max-width:760px}
+.home-latest-image{display:block;width:100%;max-width:760px;max-height:450px;object-fit:cover;border-radius:20px;border:1px solid #2b3037}
+
+/* Home latest build: copy left, compact image right */
+.home-latest-layout{display:grid;grid-template-columns:minmax(0,1.3fr) minmax(260px,.85fr);gap:36px;align-items:center}
+.home-latest-copy h2{font-size:clamp(2rem,3.5vw,3rem);margin:12px 0 14px}
+.home-latest-copy p{color:var(--muted);max-width:590px;margin:0 0 20px}
+.home-latest-photo{display:block;overflow:hidden;border-radius:14px;border:1px solid var(--line)}
+.home-latest-photo img{display:block;width:100%;aspect-ratio:16/10;object-fit:cover}
+@media(max-width:700px){.home-latest-layout{grid-template-columns:1fr;gap:24px}.home-latest-photo{max-width:520px}}
+
+/* Build pages: left-aligned copy and social buttons */
+.build-hero-copy,.build-story,.build-chapter,.build-thoughts,.build-gallery-section,.build-meta, .build-chapter figcaption{text-align:left}
+.build-story .actions,.build-thoughts .actions{justify-content:flex-start}
+footer .footer-social{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+footer .footer-social .btn{color:#111;font-weight:900}
+footer .footer-social .btn.secondary{color:#fff}
+footer .footer-social .btn:hover{color:#111}
+footer .footer-social .btn.secondary:hover{color:#fff}
+
+/* Align narrow build sections with the main content column */
+.container.build-narrow{
+  margin-left:max(20px,calc((100% - var(--max))/2));
+  margin-right:0;
+}

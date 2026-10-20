@@ -1,11 +1,11 @@
 // Upcoming Build card settings. Edit these values when you choose your next build.
-// image: path relative to the website root, e.g. "images/builds/next-build.jpg".
+// image: path relative to the website root, e.g. "images/builds/coming-soon.webp".
 // Leave image empty to display the brick placeholder instead.
 const upcomingBuild = {
   status: "UPCOMING",
   title: "Next Build Coming Soon",
   description: "Something new is on the way. Stay tuned for the next BrickMisfit build!",
-  image: "images/builds/next-build.jpg",
+  image: "images/builds/coming-soon.webp",
   imageAlt: "Upcoming BrickMisfit build"
 };
 
