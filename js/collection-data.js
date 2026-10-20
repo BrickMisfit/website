@@ -338,18 +338,6 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Classic",
-    "number": "11024",
-    "name": "Gray Baseplate",
-    "pieces": 1,
-    "msrp": 14.99,
-    "url": "https://www.lego.com/en-us/product/11024",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/11024.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
     "number": "40779",
     "name": "Year of the Horse",
     "pieces": 133,
@@ -658,6 +646,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/40791.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Harry Potter",
+    "number": "76442",
+    "name": "Hogwarts Castle: Charms Class",
+    "pieces": 204,
+    "msrp": 19.989999999999998,
+    "url": "https://www.lego.com/en-us/product/76442",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3TOvvCl",
+    "image": "images/collection/76442.jpg"
   },
   {
     "brand": "LEGO",
@@ -1501,6 +1501,18 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
+    "category": "Star Wars",
+    "number": "75436",
+    "name": "The Mandalorian & Grogu's Speeder Bike",
+    "pieces": 58,
+    "msrp": 9.99,
+    "url": "https://www.lego.com/en-us/product/75436",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4ytGkHS",
+    "image": "images/collection/75436.jpg"
+  },
+  {
+    "brand": "LEGO",
     "category": "Stranger Things",
     "number": "11370",
     "name": "Stranger Things: The Creel House",
@@ -1713,7 +1725,7 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://www.lego.com/en-us/product/42217",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4BdTewn",
-    "image": null
+    "image": "images/collection/42217.jpg"
   },
   {
     "brand": "LEGO",
@@ -1932,6 +1944,30 @@ window.BRICKMISFIT_COLLECTION = [
     "image": "images/collection/42138.png"
   },
   {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "77253",
+    "name": "Bugatti Vision GT Hyper Sports Car",
+    "pieces": 284,
+    "msrp": 27.99,
+    "url": "https://www.lego.com/en-us/product/77253",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4sd4G7z",
+    "image": "images/collection/77253.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
+    "number": "42226",
+    "name": "BMW M4 GT3 EVO Race Car",
+    "pieces": 747,
+    "msrp": 64.989999999999995,
+    "url": "https://www.lego.com/en-us/product/42226",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4se0DaZ",
+    "image": null
+  },
+  {
     "brand": "Nifeliz",
     "category": "Technic",
     "number": "NF10329",
@@ -2036,7 +2072,7 @@ window.BRICKMISFIT_COLLECTION = [
     "msrp": 329.99,
     "url": "https://shop.mattel.com/products/mattel-brick-shop-microsoft-xbox-building-toy-kit-hyl44",
     "linkLabel": "View Mattel product",
-    "affiliateUrl": "",
+    "affiliateUrl": "https://amzn.to/4zMLuA8",
     "image": "images/collection/HYL44.webp"
   }
 ];
