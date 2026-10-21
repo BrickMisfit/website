@@ -2,7 +2,7 @@
 .SYNOPSIS
 Commits and pushes local BrickMisfit website changes to GitHub.
 .DESCRIPTION
-Works on Windows and macOS with PowerShell 7. Uses the script's own folder as the repository root, checks for remote changes, reviews staged files, and commits and pushes after confirmation. Stops when the remote branch is ahead or has diverged.
+Works on Windows and macOS with PowerShell 7. Uses the script's own folder as the repository root, automatically fast-forwards a clean local branch when GitHub has newer commits, reviews staged files, and commits and pushes after confirmation. Stops safely when local changes or divergent history prevent synchronization.
 #>
 [CmdletBinding()]
 param(
@@ -71,12 +71,36 @@ if ($LASTEXITCODE -ne 0) {
     throw "Cannot find origin/$branch after fetching. Check your remote branch configuration."
 }
 
+# Sync with GitHub
 $behind = & git -C $RepoPath rev-list --count "HEAD..origin/$branch"
-if ($LASTEXITCODE -ne 0) { throw 'Unable to compare local and remote branches.' }
-if ([int]$behind.Trim() -gt 0) {
-    Write-Host 'Remote changes were found. Publish stopped to prevent conflicts.' -ForegroundColor Red
-    Write-Host "After saving any local changes, review and run: git pull --ff-only origin $branch"
-    throw "Local branch is $($behind.Trim()) commit(s) behind origin/$branch."
+if ($LASTEXITCODE -ne 0) { throw 'Unable to check commits behind the remote.' }
+$ahead = & git -C $RepoPath rev-list --count "origin/$branch..HEAD"
+if ($LASTEXITCODE -ne 0) { throw 'Unable to check commits ahead of the remote.' }
+$behindCount = [int](([string]$behind).Trim())
+$aheadCount = [int](([string]$ahead).Trim())
+
+if ($behindCount -gt 0 -and $aheadCount -gt 0) {
+    throw "Local and remote branches have diverged ($aheadCount ahead, $behindCount behind). Resolve the history manually before publishing."
+}
+
+if ($behindCount -gt 0) {
+    $localChanges = & git -C $RepoPath status --porcelain --untracked-files=all
+    if ($LASTEXITCODE -ne 0) { throw 'Unable to check local changes before synchronization.' }
+    if ($localChanges) {
+        Write-Host 'GitHub has newer commits, but local changes are present.' -ForegroundColor Red
+        Write-Host 'Commit, stash, or discard the local changes before synchronizing.' -ForegroundColor Yellow
+        throw "Local branch is $behindCount commit(s) behind origin/$branch. Nothing was overwritten."
+    }
+
+    Write-Host "Local branch is $behindCount commit(s) behind. Fast-forwarding..." -ForegroundColor Yellow
+    Invoke-Git -Arguments @('merge', '--ff-only', "origin/$branch")
+    Write-Host 'Repository synchronized with GitHub.' -ForegroundColor Green
+}
+elseif ($aheadCount -gt 0) {
+    Write-Host "Local branch is $aheadCount commit(s) ahead of GitHub." -ForegroundColor Yellow
+}
+else {
+    Write-Host 'Local branch is up to date with GitHub.' -ForegroundColor Green
 }
 
 Write-Host 'Current changes:' -ForegroundColor Yellow
