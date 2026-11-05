@@ -109,6 +109,42 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
+    "category": "Botanicals",
+    "number": "10371",
+    "name": "Cozy Plants",
+    "pieces": 248,
+    "msrp": 22.99,
+    "url": "https://www.lego.com/en-us/product/cozy-plants-10371",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/10371.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Botanicals",
+    "number": "10349",
+    "name": "Happy Plants",
+    "pieces": 217,
+    "msrp": 22.99,
+    "url": "https://www.lego.com/en-us/product/happy-plants-10349",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://link.amazon/B001OdLpZ",
+    "image": "images/collection/10349.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Botanicals",
+    "number": "11506",
+    "name": "Rocking Plants",
+    "pieces": null,
+    "msrp": 22.99,
+    "url": "https://www.lego.com/en-us/product/rocking-plants-11506",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://link.amazon/B0eUnKWYj",
+    "image": "images/collection/11506.png"
+  },
+  {
+    "brand": "LEGO",
     "category": "BrickHeadz",
     "number": "40858",
     "name": "SpongeBob SquarePants Figure",
@@ -130,6 +166,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/40923.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "City",
+    "number": "60402",
+    "name": "Blue Monster Truck",
+    "pieces": 148,
+    "msrp": 15.99,
+    "url": "https://www.lego.com/en-us/product/blue-monster-truck-60402",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://link.amazon/B04mPVNQ0",
+    "image": "images/collection/60402.jpg"
   },
   {
     "brand": "LEGO",
@@ -1965,7 +2013,7 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://www.lego.com/en-us/product/42226",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4se0DaZ",
-    "image": null
+    "image": "images/collection/42226.webp"
   },
   {
     "brand": "Nifeliz",
@@ -2074,5 +2122,29 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/4zMLuA8",
     "image": "images/collection/HYL44.webp"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JKR19",
+    "name": "20 Corvette C8.R",
+    "pieces": 261,
+    "msrp": 21.99,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-20-corvette-c8r-building-toy-kit-jkr19",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://link.amazon/B0fD4GEzI",
+    "image": "images/collection/JKR19.jpg"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JHG75",
+    "name": "Lamborghini Huracan Sterrato",
+    "pieces": 268,
+    "msrp": 21.99,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-lamborghini-huracan-sterrato-building-toy-kit-jhg75",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://link.amazon/B0dtoqXw9",
+    "image": "images/collection/JHG75.jpg"
   }
 ];
