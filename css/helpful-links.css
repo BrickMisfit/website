@@ -1,0 +1,3 @@
+/* Homepage helpful links: hide nonmatching cards when a category is selected. */
+#helpfulLinksGrid .card[hidden] { display: none; }
+.helpful-filters { margin-top: 20px; }

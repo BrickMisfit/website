@@ -55,7 +55,7 @@ const brickMisfitNews = [
       const title = document.createElement("h3"); title.textContent = item.title;
       const date = document.createElement("p"); date.className = "brick-news-meta"; date.textContent = item.date ? `Reviewed ${new Date(item.date + "T12:00:00").toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"})}` : "";
       const summary = document.createElement("p"); summary.textContent = item.summary || "";
-      const link = document.createElement("a"); link.href = item.url; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = "Explore on LEGO.com →";
+      const link = document.createElement("a"); link.href = item.url; link.target = "_blank"; link.rel = "noopener noreferrer"; link.textContent = "Explore on LEGO.com";
       body.append(pill,title,date,summary,link); article.appendChild(body); grid.appendChild(article);
     });
   };
