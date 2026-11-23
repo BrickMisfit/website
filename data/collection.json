@@ -374,18 +374,6 @@
   {
     "brand": "LEGO",
     "category": "Classic",
-    "number": "40779",
-    "name": "Year of the Horse",
-    "pieces": 133,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40779",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40779.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
     "number": "40805",
     "name": "Arcade Machine",
     "pieces": 468,
@@ -394,30 +382,6 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4hRo31f",
     "image": "images/collection/40805.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
-    "number": "40905",
-    "name": "Birthday Cupcake",
-    "pieces": 174,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40905",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40905.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
-    "number": "40780",
-    "name": "Birthday Cake",
-    "pieces": 160,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40780",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40780.png"
   },
   {
     "brand": "LEGO",
@@ -661,6 +625,90 @@
   },
   {
     "brand": "LEGO",
+    "category": "Games",
+    "number": "40926",
+    "name": "SEGA® Genesis Console",
+    "pieces": 480,
+    "msrp": 39.99,
+    "url": "https://www.lego.com/en-us/product/40926",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40926.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Games",
+    "number": "72306",
+    "name": "PlayStation",
+    "pieces": 1911,
+    "msrp": 179.99,
+    "url": "https://www.lego.com/en-us/product/72306",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/72306.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Games",
+    "number": "40769",
+    "name": "SEGA Genesis Controller",
+    "pieces": 260,
+    "msrp": 19.989999999999998,
+    "url": "https://www.lego.com/en-us/product/40769",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40769.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40889",
+    "name": "Build, Paint and Play!",
+    "pieces": 158,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40889",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40889.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40779",
+    "name": "Year of the Horse",
+    "pieces": 133,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40779",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40779.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40905",
+    "name": "Birthday Cupcake",
+    "pieces": 174,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40905",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40905.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40780",
+    "name": "Birthday Cake",
+    "pieces": 160,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40780",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40780.png"
+  },
+  {
+    "brand": "LEGO",
     "category": "GWP",
     "number": "40914",
     "name": "Retro Jukebox",
@@ -730,6 +778,30 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/40908.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40886",
+    "name": "Penguins in Love",
+    "pieces": 278,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40886",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40886.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "30729",
+    "name": "Premier Ball",
+    "pieces": 46,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/30729",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/30729.png"
   },
   {
     "brand": "LEGO",
@@ -1106,42 +1178,6 @@
   {
     "brand": "LEGO",
     "category": "Other",
-    "number": "40926",
-    "name": "SEGA® Genesis Console",
-    "pieces": 480,
-    "msrp": 39.99,
-    "url": "https://www.lego.com/en-us/product/40926",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40926.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Other",
-    "number": "72306",
-    "name": "PlayStation",
-    "pieces": 1911,
-    "msrp": 179.99,
-    "url": "https://www.lego.com/en-us/product/72306",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/72306.webp"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Other",
-    "number": "40769",
-    "name": "SEGA Genesis Controller",
-    "pieces": 260,
-    "msrp": 19.989999999999998,
-    "url": "https://www.lego.com/en-us/product/40769",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40769.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Other",
     "number": "41433",
     "name": "Party Boat",
     "pieces": 640,
@@ -1162,30 +1198,6 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/854290.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Other",
-    "number": "40886",
-    "name": "Penguins in Love",
-    "pieces": 278,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40886",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40886.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Other",
-    "number": "30729",
-    "name": "Premier Ball",
-    "pieces": 46,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/30729",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/30729.png"
   },
   {
     "brand": "LEGO",
