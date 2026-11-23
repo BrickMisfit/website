@@ -433,30 +433,6 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
-    "category": "Icons",
-    "number": "31134",
-    "name": "Space Shuttle",
-    "pieces": 144,
-    "msrp": 9.99,
-    "url": "https://www.lego.com/en-us/product/31134",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/31134.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Creator",
-    "number": "10213",
-    "name": "Shuttle Adventure",
-    "pieces": 1204,
-    "msrp": 99.99,
-    "url": "https://www.lego.com/en-us/product/10213",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4j5tRGw",
-    "image": "images/collection/10213.webp"
-  },
-  {
-    "brand": "LEGO",
     "category": "Creator",
     "number": "40519",
     "name": "New York Post Card",
@@ -490,6 +466,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/31146.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Creator",
+    "number": "31134",
+    "name": "Space Shuttle",
+    "pieces": 144,
+    "msrp": 9.99,
+    "url": "https://www.lego.com/en-us/product/31134",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/31134.png"
   },
   {
     "brand": "LEGO",
@@ -586,6 +574,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/3VVgjnj",
     "image": "images/collection/43293.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Disney",
+    "number": "10365",
+    "name": "Captain Jack Sparrow's Pirate Ship",
+    "pieces": 2862,
+    "msrp": 379.99,
+    "url": "https://www.lego.com/en-us/product/10365",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/3Wide0N",
+    "image": "images/collection/10365.jpg"
   },
   {
     "brand": "LEGO",
@@ -878,38 +878,14 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Icons",
-    "number": "10357",
-    "name": "Shelby Cobra 427",
-    "pieces": 1241,
-    "msrp": 159.99,
-    "url": "https://www.lego.com/en-us/product/10357",
+    "number": "10213",
+    "name": "Shuttle Adventure",
+    "pieces": 1204,
+    "msrp": 99.99,
+    "url": "https://www.lego.com/en-us/product/10213",
     "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/10357.webp"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Icons",
-    "number": "10365",
-    "name": "Captain Jack Sparrow's Pirate Ship",
-    "pieces": 2862,
-    "msrp": 379.99,
-    "url": "https://www.lego.com/en-us/product/10365",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/3Wide0N",
-    "image": "images/collection/10365.jpg"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Icons",
-    "number": "10331",
-    "name": "Kingfisher Bird",
-    "pieces": 834,
-    "msrp": 49.99,
-    "url": "https://www.lego.com/en-us/product/10331",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4rTVV22",
-    "image": "images/collection/10331.png"
+    "affiliateUrl": "https://amzn.to/4j5tRGw",
+    "image": "images/collection/10213.webp"
   },
   {
     "brand": "LEGO",
@@ -922,42 +898,6 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4yYPEVi",
     "image": "images/collection/11382.webp"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Icons",
-    "number": "11389",
-    "name": "Project Hail Mary",
-    "pieces": 830,
-    "msrp": 99.99,
-    "url": "https://www.lego.com/en-us/product/11389",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4yxppFn",
-    "image": "images/collection/11389.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Icons",
-    "number": "10317",
-    "name": "Land Rover Classic Defender 90",
-    "pieces": 2336,
-    "msrp": 239.99,
-    "url": "https://www.lego.com/en-us/product/10317",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4j92207",
-    "image": "images/collection/10317.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Icons",
-    "number": "10274",
-    "name": "Ghostbusters ECTO-1",
-    "pieces": 2352,
-    "msrp": 239.99,
-    "url": "https://www.lego.com/en-us/product/10274",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4AV3Gsx",
-    "image": "images/collection/10274.jpg"
   },
   {
     "brand": "LEGO",
@@ -997,18 +937,6 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
-    "category": "Ideas",
-    "number": "21330",
-    "name": "Home Alone",
-    "pieces": 3955,
-    "msrp": 249.99,
-    "url": "https://www.lego.com/en-us/product/21330",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4dTkA0M",
-    "image": "images/collection/21330.jpg"
-  },
-  {
-    "brand": "LEGO",
     "category": "Icons",
     "number": "21309",
     "name": "NASA Apollo Saturn V",
@@ -1030,6 +958,78 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4yBdqqh",
     "image": "images/collection/21321.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "11389",
+    "name": "Project Hail Mary",
+    "pieces": 830,
+    "msrp": 99.99,
+    "url": "https://www.lego.com/en-us/product/11389",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4yxppFn",
+    "image": "images/collection/11389.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "10357",
+    "name": "Shelby Cobra 427",
+    "pieces": 1241,
+    "msrp": 159.99,
+    "url": "https://www.lego.com/en-us/product/10357",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/10357.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "10317",
+    "name": "Land Rover Classic Defender 90",
+    "pieces": 2336,
+    "msrp": 239.99,
+    "url": "https://www.lego.com/en-us/product/10317",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4j92207",
+    "image": "images/collection/10317.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "10274",
+    "name": "Ghostbusters ECTO-1",
+    "pieces": 2352,
+    "msrp": 239.99,
+    "url": "https://www.lego.com/en-us/product/10274",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4AV3Gsx",
+    "image": "images/collection/10274.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "10331",
+    "name": "Kingfisher Bird",
+    "pieces": 834,
+    "msrp": 49.99,
+    "url": "https://www.lego.com/en-us/product/10331",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4rTVV22",
+    "image": "images/collection/10331.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Ideas",
+    "number": "21330",
+    "name": "Home Alone",
+    "pieces": 3955,
+    "msrp": 249.99,
+    "url": "https://www.lego.com/en-us/product/21330",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4dTkA0M",
+    "image": "images/collection/21330.jpg"
   },
   {
     "brand": "LEGO",
@@ -1058,18 +1058,6 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Marvel",
-    "number": "11207",
-    "name": "Spidey: Underwater Vehicles",
-    "pieces": 154,
-    "msrp": 34.99,
-    "url": "https://www.lego.com/en-us/product/11207",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/11207.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Marvel",
     "number": "76313",
     "name": "MARVEL Logo & Minifigures",
     "pieces": 931,
@@ -1082,14 +1070,14 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Marvel",
-    "number": "76340",
-    "name": "LEGO® ǀ Marvel Advent Calendar 2026",
-    "pieces": 317,
-    "msrp": 44.99,
-    "url": "https://www.lego.com/en-us/product/76340",
+    "number": "76321",
+    "name": "Spider-Man vs. Doc Ock Subway Train Scene",
+    "pieces": 393,
+    "msrp": 54.99,
+    "url": "https://www.lego.com/en-us/product/76321",
     "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/76340.png"
+    "affiliateUrl": "https://amzn.to/4yCMuqk",
+    "image": "images/collection/76321.png"
   },
   {
     "brand": "LEGO",
@@ -1106,14 +1094,26 @@ window.BRICKMISFIT_COLLECTION = [
   {
     "brand": "LEGO",
     "category": "Marvel",
-    "number": "76321",
-    "name": "Spider-Man vs. Doc Ock Subway Train Scene",
-    "pieces": 393,
-    "msrp": 54.99,
-    "url": "https://www.lego.com/en-us/product/76321",
+    "number": "76340",
+    "name": "LEGO® ǀ Marvel Advent Calendar 2026",
+    "pieces": 317,
+    "msrp": 44.99,
+    "url": "https://www.lego.com/en-us/product/76340",
     "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4yCMuqk",
-    "image": "images/collection/76321.png"
+    "affiliateUrl": "",
+    "image": "images/collection/76340.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Marvel",
+    "number": "11207",
+    "name": "Spidey: Underwater Vehicles",
+    "pieces": 154,
+    "msrp": 34.99,
+    "url": "https://www.lego.com/en-us/product/11207",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/11207.png"
   },
   {
     "brand": "LEGO",
