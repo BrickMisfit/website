@@ -1777,7 +1777,7 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
-    "category": "Super Mario",
+    "category": "Games",
     "number": "72046",
     "name": "Game Boy",
     "pieces": 421,
