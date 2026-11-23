@@ -117,7 +117,7 @@
     "url": "https://www.lego.com/en-us/product/cozy-plants-10371",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": "images/collection/10371.png"
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -129,7 +129,7 @@
     "url": "https://www.lego.com/en-us/product/happy-plants-10349",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B001OdLpZ",
-    "image": "images/collection/10349.webp"
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -141,7 +141,7 @@
     "url": "https://www.lego.com/en-us/product/rocking-plants-11506",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B0eUnKWYj",
-    "image": "images/collection/11506.png"
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -177,7 +177,7 @@
     "url": "https://www.lego.com/en-us/product/blue-monster-truck-60402",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B04mPVNQ0",
-    "image": "images/collection/60402.jpg"
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -578,6 +578,18 @@
   {
     "brand": "LEGO",
     "category": "Disney",
+    "number": "43305",
+    "name": "Piglet's Birthday Fun",
+    "pieces": 544,
+    "msrp": 39.99,
+    "url": "https://www.lego.com/en-us/product/43305",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "Disney",
     "number": "41168",
     "name": "Elsa's Jewelry Box Creation",
     "pieces": 300,
@@ -661,6 +673,30 @@
   },
   {
     "brand": "LEGO",
+    "category": "GWP",
+    "number": "40914",
+    "name": "Retro Jukebox",
+    "pieces": 287,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40914",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40918",
+    "name": "Winter Snow Globe",
+    "pieces": 231,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40918",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
     "category": "Harry Potter",
     "number": "76460",
     "name": "Hogwarts Castle: Sorting Hat Ceremony",
@@ -706,6 +742,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/3TOvvCl",
     "image": "images/collection/76442.jpg"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Icons",
+    "number": "10357",
+    "name": "Shelby Cobra 427",
+    "pieces": 1241,
+    "msrp": 159.99,
+    "url": "https://www.lego.com/en-us/product/10357",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -961,6 +1009,66 @@
   },
   {
     "brand": "LEGO",
+    "category": "Minifigures",
+    "number": "40649",
+    "name": "Up-Scaled LEGO Minifigure",
+    "pieces": 654,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/40649",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "Minifigures",
+    "number": "40868",
+    "name": "Up-Scaled Red Minifigure",
+    "pieces": 930,
+    "msrp": 79.989999999999995,
+    "url": "https://www.lego.com/en-us/product/40868",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "Minifigures",
+    "number": "40819",
+    "name": "Up-Scaled Racing Driver Minifigure",
+    "pieces": 694,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/40819",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "Minifigures",
+    "number": "40921",
+    "name": "Up-Scaled Blue Astronaut Minifigure",
+    "pieces": 793,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/40921",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "NINJAGO",
+    "number": "71866",
+    "name": "Ninja Character Display 15th Anniversary",
+    "pieces": 447,
+    "msrp": 44.99,
+    "url": "https://www.lego.com/en-us/product/71866",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
     "category": "Other",
     "number": "40926",
     "name": "SEGA® Genesis Console",
@@ -1048,8 +1156,8 @@
     "category": "Restaurants",
     "number": "40907",
     "name": "System.Xml.XmlElement",
-    "pieces": null,
-    "msrp": null,
+    "pieces": 326,
+    "msrp": 0.0,
     "url": "https://www.lego.com/en-us/product/40907",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
@@ -1258,6 +1366,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4yBuVa3",
     "image": "images/collection/77244.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Star Wars",
+    "number": "75461",
+    "name": "Up-Scaled Darth Vader Minifigure",
+    "pieces": 1028,
+    "msrp": 99.99,
+    "url": "https://www.lego.com/en-us/product/75461",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
   },
   {
     "brand": "LEGO",
@@ -1646,6 +1766,18 @@
   {
     "brand": "LEGO",
     "category": "Technic",
+    "number": "42231",
+    "name": "Fast and Furious Dodge Charger R/T Car",
+    "pieces": 1516,
+    "msrp": 159.99,
+    "url": "https://www.lego.com/en-us/product/42231",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "LEGO",
+    "category": "Technic",
     "number": "42207",
     "name": "Ferrari SF-24 F1 Car",
     "pieces": 1361,
@@ -2013,7 +2145,7 @@
     "url": "https://www.lego.com/en-us/product/42226",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4se0DaZ",
-    "image": "images/collection/42226.webp"
+    "image": null
   },
   {
     "brand": "Nifeliz",
@@ -2133,7 +2265,7 @@
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-20-corvette-c8r-building-toy-kit-jkr19",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://link.amazon/B0fD4GEzI",
-    "image": "images/collection/JKR19.jpg"
+    "image": null
   },
   {
     "brand": "Mattel",
@@ -2145,6 +2277,6 @@
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-lamborghini-huracan-sterrato-building-toy-kit-jhg75",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://link.amazon/B0dtoqXw9",
-    "image": "images/collection/JHG75.jpg"
+    "image": null
   }
 ]
