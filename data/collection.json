@@ -117,7 +117,7 @@
     "url": "https://www.lego.com/en-us/product/cozy-plants-10371",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/10371.png"
   },
   {
     "brand": "LEGO",
@@ -129,7 +129,7 @@
     "url": "https://www.lego.com/en-us/product/happy-plants-10349",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B001OdLpZ",
-    "image": null
+    "image": "images/collection/10349.webp"
   },
   {
     "brand": "LEGO",
@@ -141,7 +141,7 @@
     "url": "https://www.lego.com/en-us/product/rocking-plants-11506",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B0eUnKWYj",
-    "image": null
+    "image": "images/collection/11506.png"
   },
   {
     "brand": "LEGO",
@@ -177,7 +177,7 @@
     "url": "https://www.lego.com/en-us/product/blue-monster-truck-60402",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://link.amazon/B04mPVNQ0",
-    "image": null
+    "image": "images/collection/60402.jpg"
   },
   {
     "brand": "LEGO",
@@ -585,7 +585,7 @@
     "url": "https://www.lego.com/en-us/product/43305",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/43305.png"
   },
   {
     "brand": "LEGO",
@@ -681,7 +681,7 @@
     "url": "https://www.lego.com/en-us/product/40914",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40914.webp"
   },
   {
     "brand": "LEGO",
@@ -693,7 +693,43 @@
     "url": "https://www.lego.com/en-us/product/40918",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40918.webp"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40907",
+    "name": "System.Xml.XmlElement",
+    "pieces": 326,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40907",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40907.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40909",
+    "name": "Restaurants of the World: Italy",
+    "pieces": 317,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40909",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40909.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40906",
+    "name": "Restaurants of the World: Japan",
+    "pieces": 289,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40906",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4hGzXLa",
+    "image": "images/collection/40906.png"
   },
   {
     "brand": "LEGO",
@@ -753,7 +789,7 @@
     "url": "https://www.lego.com/en-us/product/10357",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/10357.webp"
   },
   {
     "brand": "LEGO",
@@ -909,7 +945,7 @@
     "url": "https://www.lego.com/en-us/product/21368",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/3Wzhol2",
-    "image": "images/collection/21368.webp"
+    "image": "images/collection/21368.png"
   },
   {
     "brand": "LEGO",
@@ -1017,7 +1053,7 @@
     "url": "https://www.lego.com/en-us/product/40649",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40649.png"
   },
   {
     "brand": "LEGO",
@@ -1029,7 +1065,7 @@
     "url": "https://www.lego.com/en-us/product/40868",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40868.png"
   },
   {
     "brand": "LEGO",
@@ -1041,7 +1077,7 @@
     "url": "https://www.lego.com/en-us/product/40819",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40819.png"
   },
   {
     "brand": "LEGO",
@@ -1053,7 +1089,7 @@
     "url": "https://www.lego.com/en-us/product/40921",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/40921.webp"
   },
   {
     "brand": "LEGO",
@@ -1065,7 +1101,7 @@
     "url": "https://www.lego.com/en-us/product/71866",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/71866.png"
   },
   {
     "brand": "LEGO",
@@ -1153,39 +1189,15 @@
   },
   {
     "brand": "LEGO",
-    "category": "Restaurants",
-    "number": "40907",
-    "name": "System.Xml.XmlElement",
-    "pieces": 326,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40907",
+    "category": "Pokemon",
+    "number": "72154",
+    "name": "Iconic Trainer Moments Poké Ball",
+    "pieces": 2386,
+    "msrp": 299.99,
+    "url": "https://www.lego.com/en-us/product/72154",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": "images/collection/40907.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Restaurants",
-    "number": "40909",
-    "name": "Restaurants of the World: Italy",
-    "pieces": 317,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40909",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40909.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Restaurants",
-    "number": "40906",
-    "name": "Restaurants of the World: Japan",
-    "pieces": 289,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40906",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4hGzXLa",
-    "image": "images/collection/40906.png"
+    "image": "images/collection/72154.png"
   },
   {
     "brand": "LEGO",
@@ -1377,7 +1389,7 @@
     "url": "https://www.lego.com/en-us/product/75461",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/75461.png"
   },
   {
     "brand": "LEGO",
@@ -1773,7 +1785,7 @@
     "url": "https://www.lego.com/en-us/product/42231",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/42231.webp"
   },
   {
     "brand": "LEGO",
@@ -2145,7 +2157,7 @@
     "url": "https://www.lego.com/en-us/product/42226",
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4se0DaZ",
-    "image": null
+    "image": "images/collection/42226.webp"
   },
   {
     "brand": "Nifeliz",
@@ -2265,7 +2277,7 @@
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-20-corvette-c8r-building-toy-kit-jkr19",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://link.amazon/B0fD4GEzI",
-    "image": null
+    "image": "images/collection/JKR19.jpg"
   },
   {
     "brand": "Mattel",
@@ -2277,6 +2289,42 @@
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-lamborghini-huracan-sterrato-building-toy-kit-jhg75",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://link.amazon/B0dtoqXw9",
+    "image": "images/collection/JHG75.jpg"
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JNP49",
+    "name": "Halo INSC M12 Warthog",
+    "pieces": 935,
+    "msrp": 79.989999999999995,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-halo-unsc-m12-warthog-jnp49",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "HWW25",
+    "name": "Mercedes-Benz 300 SL",
+    "pieces": 1600,
+    "msrp": 129.99,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-mercedes-benz-300-sl-hww25",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "",
+    "image": null
+  },
+  {
+    "brand": "Mattel",
+    "category": "Technic",
+    "number": "JKG40",
+    "name": "94 Toyota Supra Mkiv",
+    "pieces": 824,
+    "msrp": 59.99,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-94-toyota-supra-mkiv-building-toy-kit-jkg40",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "",
     "image": null
   }
 ]
