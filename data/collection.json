@@ -374,18 +374,6 @@
   {
     "brand": "LEGO",
     "category": "Classic",
-    "number": "40805",
-    "name": "Arcade Machine",
-    "pieces": 468,
-    "msrp": 39.99,
-    "url": "https://www.lego.com/en-us/product/40805",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4hRo31f",
-    "image": "images/collection/40805.png"
-  },
-  {
-    "brand": "LEGO",
-    "category": "Classic",
     "number": "40817",
     "name": "Yellow Travel Suitcase",
     "pieces": 184,
@@ -622,6 +610,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/478785v",
     "image": "images/collection/77073.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "Games",
+    "number": "40805",
+    "name": "Arcade Machine",
+    "pieces": 468,
+    "msrp": 39.99,
+    "url": "https://www.lego.com/en-us/product/40805",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4hRo31f",
+    "image": "images/collection/40805.png"
   },
   {
     "brand": "LEGO",
