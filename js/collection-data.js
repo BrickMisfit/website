@@ -673,6 +673,18 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
+    "category": "Games",
+    "number": "72046",
+    "name": "Game Boy",
+    "pieces": 421,
+    "msrp": 59.99,
+    "url": "https://www.lego.com/en-us/product/72046",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "https://amzn.to/4zdvMgW",
+    "image": "images/collection/72046.png"
+  },
+  {
+    "brand": "LEGO",
     "category": "GWP",
     "number": "40889",
     "name": "Build, Paint and Play!",
@@ -1030,6 +1042,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/3Wzhol2",
     "image": "images/collection/21368.png"
+  },
+  {
+    "brand": "Brickvivid",
+    "category": "Marvel",
+    "number": "76178",
+    "name": "Daily Bugle",
+    "pieces": 3789,
+    "msrp": 99.99,
+    "url": "https://brickvivid.com/shop/modular/brickvivid-spider-man-daily-bugle-building-set-epic-action/",
+    "linkLabel": "View Brickvivid product",
+    "affiliateUrl": "",
+    "image": "images/collection/76178.jpg"
   },
   {
     "brand": "LEGO",
@@ -1777,18 +1801,6 @@ window.BRICKMISFIT_COLLECTION = [
   },
   {
     "brand": "LEGO",
-    "category": "Games",
-    "number": "72046",
-    "name": "Game Boy",
-    "pieces": 421,
-    "msrp": 59.99,
-    "url": "https://www.lego.com/en-us/product/72046",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "https://amzn.to/4zdvMgW",
-    "image": "images/collection/72046.png"
-  },
-  {
-    "brand": "LEGO",
     "category": "Super Mario",
     "number": "71426",
     "name": "Piranha Plant",
@@ -1798,6 +1810,18 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4hzzkEl",
     "image": "images/collection/71426.png"
+  },
+  {
+    "brand": "Brickvivid",
+    "category": "Super Mario",
+    "number": "40787",
+    "name": "Mario Kart Spiny Shell",
+    "pieces": 234,
+    "msrp": 9.99,
+    "url": "https://brickvivid.com/shop/adult/brickvivid-mario-kart-spiny-shell-collectible-brick-model/",
+    "linkLabel": "View Brickvivid product",
+    "affiliateUrl": "",
+    "image": "images/collection/40787.png"
   },
   {
     "brand": "LEGO",
@@ -1810,6 +1834,30 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View LEGO product",
     "affiliateUrl": "",
     "image": "images/collection/42231.webp"
+  },
+  {
+    "brand": "Brickvivid",
+    "category": "Technic",
+    "number": "42126",
+    "name": "Ford F-150 Raptor",
+    "pieces": 1379,
+    "msrp": 19.989999999999998,
+    "url": "https://brickvivid.com/shop/vehicle/brickvivid-ford-f-150-raptor-building-set-collectible-model-truck/",
+    "linkLabel": "View Brickvivid product",
+    "affiliateUrl": "",
+    "image": "images/collection/42126.jpg"
+  },
+  {
+    "brand": "Brickvivid",
+    "category": "Technic",
+    "number": "42206",
+    "name": "Oracle Red Bull Racing RB20 F1 Car",
+    "pieces": 1639,
+    "msrp": 29.99,
+    "url": "https://brickvivid.com/shop/vehicle/brickvivid-red-bull-rb20-f1-car-building-kit-for-adults/",
+    "linkLabel": "View Brickvivid product",
+    "affiliateUrl": "",
+    "image": "images/collection/42206.png"
   },
   {
     "brand": "LEGO",
