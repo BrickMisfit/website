@@ -24,18 +24,6 @@
     "image": "images/collection/21066.png"
   },
   {
-    "brand": "LEGO",
-    "category": "Architecture",
-    "number": "40908",
-    "name": "Restaurants of the World: Greece",
-    "pieces": 254,
-    "msrp": 0.0,
-    "url": "https://www.lego.com/en-us/product/40908",
-    "linkLabel": "View LEGO product",
-    "affiliateUrl": "",
-    "image": "images/collection/40908.png"
-  },
-  {
     "brand": "Fanbrick",
     "category": "Architecture",
     "number": "3555862",
@@ -730,6 +718,18 @@
     "linkLabel": "View LEGO product",
     "affiliateUrl": "https://amzn.to/4hGzXLa",
     "image": "images/collection/40906.png"
+  },
+  {
+    "brand": "LEGO",
+    "category": "GWP",
+    "number": "40908",
+    "name": "Restaurants of the World: Greece",
+    "pieces": 254,
+    "msrp": 0.0,
+    "url": "https://www.lego.com/en-us/product/40908",
+    "linkLabel": "View LEGO product",
+    "affiliateUrl": "",
+    "image": "images/collection/40908.png"
   },
   {
     "brand": "LEGO",
