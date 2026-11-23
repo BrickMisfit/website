@@ -2301,7 +2301,7 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-halo-unsc-m12-warthog-jnp49",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/JNP49.png"
   },
   {
     "brand": "Mattel",
@@ -2313,7 +2313,7 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-mercedes-benz-300-sl-hww25",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/HWW25.png"
   },
   {
     "brand": "Mattel",
@@ -2325,6 +2325,6 @@ window.BRICKMISFIT_COLLECTION = [
     "url": "https://shop.mattel.com/products/mattel-brick-shop-hot-wheels-94-toyota-supra-mkiv-building-toy-kit-jkg40",
     "linkLabel": "View Mattel product",
     "affiliateUrl": "",
-    "image": null
+    "image": "images/collection/JKG40.png"
   }
 ];
