@@ -660,6 +660,18 @@ window.BRICKMISFIT_COLLECTION = [
     "image": "images/collection/40769.png"
   },
   {
+    "brand": "Mattel",
+    "category": "Games",
+    "number": "HYL44",
+    "name": "Microsoft Xbox",
+    "pieces": 3509,
+    "msrp": 329.99,
+    "url": "https://shop.mattel.com/products/mattel-brick-shop-microsoft-xbox-building-toy-kit-hyl44",
+    "linkLabel": "View Mattel product",
+    "affiliateUrl": "https://amzn.to/4zMLuA8",
+    "image": "images/collection/HYL44.webp"
+  },
+  {
     "brand": "LEGO",
     "category": "GWP",
     "number": "40889",
@@ -2266,18 +2278,6 @@ window.BRICKMISFIT_COLLECTION = [
     "linkLabel": "View Mattel product",
     "affiliateUrl": "https://amzn.to/4i8DmDO",
     "image": "images/collection/JLF51.jpg"
-  },
-  {
-    "brand": "Mattel",
-    "category": "Technic",
-    "number": "HYL44",
-    "name": "Microsoft Xbox",
-    "pieces": 3509,
-    "msrp": 329.99,
-    "url": "https://shop.mattel.com/products/mattel-brick-shop-microsoft-xbox-building-toy-kit-hyl44",
-    "linkLabel": "View Mattel product",
-    "affiliateUrl": "https://amzn.to/4zMLuA8",
-    "image": "images/collection/HYL44.webp"
   },
   {
     "brand": "Mattel",
